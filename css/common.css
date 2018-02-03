@@ -1,0 +1,30 @@
+@font-face {
+	font-family: Hero;
+	src: url('/fonts/Hero.otf');
+}
+
+body {
+	color: #ffffff;
+	font: 14px sans-serif;
+}
+a:link {
+	color: #ffffff;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+	color: #ffffff;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:active {
+	color: #ffffff;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:hover {
+	color: #ffffff;
+	background-color: transparent;
+	text-decoration: underline;
+}
+	
